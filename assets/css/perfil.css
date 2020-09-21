@@ -24,16 +24,9 @@
 
 #screen {
   height: 50px;
-  width: 307px;
-  border: 1px solid black;
-  width: 90%;
-  max-width: 300px;
-  margin: auto;
-}
-
-.screen {
-  height: 2em;
-  width: 800px;
+  width: 500px;
+  border: 2px solid black;
+  border-radius: 10px;
   display: block;
   margin: 3em auto;
 }
